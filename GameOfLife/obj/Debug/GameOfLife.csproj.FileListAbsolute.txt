@@ -1,0 +1,11 @@
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.GameOfLifeForm.resources
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.GameInitForm.resources
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.Cache
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.ManualSeedForm.resources

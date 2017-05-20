@@ -1,0 +1,12 @@
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\bin\Debug\GameOfLifeUnitTest.dll
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\bin\Debug\GameOfLifeUnitTest.pdb
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\obj\Debug\GameOfLifeUnitTest.csprojResolveAssemblyReference.cache
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\obj\Debug\GameOfLifeUnitTest.dll
+c:\users\familyofoh\documents\visual studio 2017\Projects\GameOfLife\GameOfLifeUnitTest\obj\Debug\GameOfLifeUnitTest.pdb
